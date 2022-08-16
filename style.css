@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Tanha";
+    src: url("Font/Farsi/Tanha.woff") format("woff"),
+      url("Font/Farsi/Tanha.woff2") format("woff2");
+  }
+  @font-face {
+    font-family: "LiberBasker";
+    src: url("Font/English/LibreBaskerville-Regular.ttf");
+  }
+  
+  * {
+    text-align: center;
+  }
+  #mcth:hover {
+    font-size: 20px;
+    transition: 1s;
+  }
+  .FA {
+    font-family: "Tanha";
+  }
+  .EN,h1,h2,h3 {
+    font-family: "LiberBasker";
+  }
+  
